@@ -1,15 +1,15 @@
-@media (min-width: 577px) {
+@media (min-width: 576px) {
   .homeheadings {
     font-weight: 200;
     text-align: center;
     text-shadow: 0px 0px 20px rgb(205,205,205);
-    font-size: 25px;
+    font-size: 27px;
   }
 }
 
-@media (max-width: 576px) {
-  #homeheadings1 {
-    font-size: 18px;
+@media (max-width: 575px) {
+  .homeheadings {
+    font-size: 19px!important;
     margin-left: 15px;
     margin-right: 15px;
     margin-bottom: 20px;
@@ -63,16 +63,14 @@ body {
 
 @media (min-width: 596px) {
   .motherdiv {
-    margin: 40px;
-    margin-top: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 }
 
 @media (max-width: 595px) {
   .motherdiv {
-    margin-left: 10px;
-    margin-top: 0px;
-    margin-right: 10px;
+    margin-top: 10px;
     margin-bottom: 10px;
   }
 }
@@ -98,5 +96,23 @@ body {
   vertical-align: middle;
   content: "";
   background: 50%/100% 100% no-repeat;
+}
+
+@media (max-width: 575px) {
+  .mothersection {
+    max-width: 100%;
+    margin-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
+
+@media (min-width: 576px) {
+  .mothersection {
+    max-width: 100%;
+    margin-top: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+  }
 }
 
