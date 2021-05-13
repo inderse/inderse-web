@@ -100,7 +100,6 @@ body {
 
 @media (max-width: 575px) {
   .mothersection {
-    max-width: 100%;
     margin-top: 20px;
     padding-right: 10px;
     padding-left: 10px;
@@ -109,7 +108,6 @@ body {
 
 @media (min-width: 576px) {
   .mothersection {
-    max-width: 100%;
     margin-top: 20px;
     padding-right: 40px;
     padding-left: 40px;
