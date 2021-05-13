@@ -65,6 +65,7 @@ body {
   .motherdiv {
     margin-top: 10px;
     margin-bottom: 10px;
+    min-width: 100%;
   }
 }
 
@@ -72,6 +73,7 @@ body {
   .motherdiv {
     margin-top: 10px;
     margin-bottom: 10px;
+    min-width: 100%;
   }
 }
 
