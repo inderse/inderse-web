@@ -125,3 +125,69 @@ body {
   margin: 10px 0px;
 }
 
+a:hover {
+  color: #0056b3;
+  text-decoration: blink;
+}
+
+.btn-primary:hover {
+  color: #ffffff;
+  background-color: #c5c5c5!important;
+  border-color: #c5c5c5!important;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  color: #fff;
+  background-color: #c5c5c5!important;
+  border-color: #c5c5c5!important;
+  box-shadow: 0 0 0 .2rem #c5c5c59c!important;
+}
+
+@media (min-width: 992px) {
+  .aciklama {
+    margin: 20px;
+  }
+}
+
+@media (min-width: 1130px) {
+  .aciklamafoto {
+    max-height: 505px;
+  }
+}
+
+@media (max-width: 992px) {
+  .aciklamaheading {
+    margin-top: 30px;
+  }
+}
+
+.aciklamayazi {
+  margin: 30px;
+}
+
+@media (max-width: 767px) {
+  .simorheading {
+    font-size: 40px;
+    letter-spacing: 30px;
+  }
+}
+
+@media (min-width: 768px) {
+  .simorheading {
+    font-size: 77px;
+    letter-spacing: 53px;
+  }
+}
+
+@media (min-width: 992px) {
+  .simorparagraph {
+    text-align: right;
+  }
+}
+
+@media (max-width: 991px) {
+  .simorparagraph {
+    text-align: left;
+  }
+}
+
