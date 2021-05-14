@@ -168,14 +168,12 @@ a:hover {
 @media (max-width: 767px) {
   .simorheading {
     font-size: 40px;
-    letter-spacing: 30px;
   }
 }
 
 @media (min-width: 768px) {
   .simorheading {
     font-size: 77px;
-    letter-spacing: 53px;
   }
 }
 
