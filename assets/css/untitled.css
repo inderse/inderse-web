@@ -1,0 +1,68 @@
+.bg-primary {
+  background: #fdcc52;
+}
+
+@media (min-width: 950px) {
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 129px;
+  }
+}
+
+@media (max-width: 950px) {
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 20px;
+  }
+}
+
+#mainNav .navbar-nav > li > a:focus:hover, #mainNav .navbar-nav > li > a:hover {
+  color: #25b4d3;
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+  color: rgba(255,255,255,0.9);
+}
+
+#mainNav .navbar-nav > li > a:focus:hover, #mainNav .navbar-nav > li > a:hover {
+  color: #00a7ee;
+}
+
+a:focus, a:hover {
+  color: #00a9de;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #f2f2f2;
+}
+
+#mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
+  color: #26cccc;
+}
+
+#mainNav .navbar-brand {
+  color: #ffffff;
+}
+
+#mainNav .navbar-nav > li > a, #mainNav .navbar-nav > li > a:focus {
+  color: #ebebeb;
+}
+
+#mainNav .navbar-nav > li > a:focus:hover, #mainNav .navbar-nav > li > a:hover {
+  color: #1ac7ed;
+}
+
+a:focus, a:hover {
+  color: #20d4fc;
+}
+
+a {
+  color: #fdcc52;
+  transition: all .35s;
+}
+

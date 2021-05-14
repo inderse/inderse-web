@@ -1,0 +1,12 @@
+@media (min-width: 900px) {
+  .container.hero {
+    padding-top: 80px;
+  }
+}
+
+@media (max-width: 900px) {
+  .container.hero {
+    padding-top: 1px;
+  }
+}
+
