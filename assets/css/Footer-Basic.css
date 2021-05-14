@@ -82,5 +82,7 @@
 
 .aciklamafoto {
   max-height: 505px;
+  width: 100%;
+  max-width: 505px;
 }
 
