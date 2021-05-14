@@ -149,12 +149,6 @@ a:hover {
   }
 }
 
-@media (min-width: 1130px) {
-  .aciklamafoto {
-    max-height: 505px;
-  }
-}
-
 @media (max-width: 992px) {
   .aciklamaheading {
     margin-top: 30px;
