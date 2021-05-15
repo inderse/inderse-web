@@ -156,18 +156,18 @@ a:hover {
 }
 
 .aciklamayazi {
-  margin: 30px;
+  margin: 20px;
 }
 
 @media (max-width: 767px) {
   .simorheading {
-    font-size: 60px;
+    font-size: 47px;
   }
 }
 
 @media (min-width: 768px) {
   .simorheading {
-    font-size: 77px;
+    font-size: 69px;
   }
 }
 
