@@ -99,7 +99,7 @@ span {
 
 @media (max-width: 576px) {
   .bigheading {
-    font-size: 38px;
+    font-size: 35px;
   }
 }
 
@@ -111,14 +111,20 @@ span {
 
 @media (min-width: 576px) {
   .hakkimda {
-    margin: 30px 50px;
-    max-width: 100%;
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    max-width: 60%;
   }
 }
 
 @media (max-width: 576px) {
   .hakkimda {
-    margin: 30px 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
   }
 }
 
