@@ -93,3 +93,32 @@ span {
   font-weight: 800;
 }
 
+.tshirtdiv {
+  margin-top: 30px;
+}
+
+@media (max-width: 576px) {
+  .bigheading {
+    font-size: 38px;
+  }
+}
+
+@media (min-width: 576px) {
+  .bigheading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 576px) {
+  .hakkimda {
+    margin: 30px 50px;
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 576px) {
+  .hakkimda {
+    margin: 30px 20px;
+  }
+}
+
