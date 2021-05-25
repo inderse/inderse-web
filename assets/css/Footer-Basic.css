@@ -128,3 +128,15 @@ span {
   }
 }
 
+@media (min-width: 768px) {
+  .tshirtrow {
+    padding: 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  .tshirtrow {
+    padding: 0px;
+  }
+}
+
