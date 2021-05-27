@@ -112,10 +112,10 @@ span {
 @media (min-width: 576px) {
   .hakkimda {
     margin-top: 10px;
-    margin-right: 30px;
-    margin-left: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
     margin-bottom: 30px;
-    max-width: 70%;
+    max-width: 60%;
   }
 }
 
