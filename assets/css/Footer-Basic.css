@@ -140,3 +140,21 @@ span {
   }
 }
 
+@media (min-width: 1200px) {
+  .inhubimagediv {
+    aspect-ratio: 1113.39/681;
+  }
+}
+
+.simordiv {
+  width: 95%;
+  border-radius: 30px;
+  margin: 10px 0px;
+}
+
+@media (min-width: 1200px) {
+  .inhubbackrounddiv {
+    aspect-ratio: 1126.69/681;
+  }
+}
+
